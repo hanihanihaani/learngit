@@ -6,3 +6,5 @@ today is my study git`s second day
 git has a mutable index called stadge
 
 git tracks changes
+
+git tracks changes files
