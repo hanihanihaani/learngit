@@ -14,3 +14,5 @@ git tracks changes files
 	my boss is a stupid person 
 	
 	create a new branch 
+	
+	create a new branch is quick and faster
