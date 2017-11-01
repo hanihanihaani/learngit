@@ -16,3 +16,5 @@ git tracks changes files
 	create a new branch 
 	
 	create a new branch is quick and faster
+	
+	learn --no -of
