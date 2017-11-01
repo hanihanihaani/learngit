@@ -8,3 +8,9 @@ git has a mutable index called stadge
 git tracks changes
 
 git tracks changes files
+
+	this is a long long story 
+
+	my boss is a stupid person 
+	
+	create a new branch 
