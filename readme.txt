@@ -15,7 +15,7 @@ git tracks changes files
 	
 	create a new branch 
 	
-	create a new branch is slowly and faster
-	
-	learn shenmogui
+	create a new branch is slow and faster
+
+	learn shenmogui 
 
