@@ -11,7 +11,7 @@ git tracks changes files
 
 	this is a long long story 
 
-	my boss is a stupid person 
+	my boss is a very good person 
 	
 	create a new branch 
 	
